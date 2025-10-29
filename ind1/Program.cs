@@ -1,4 +1,4 @@
-namespace ind1
+/*namespace ind1
 {
     internal static class Program
     {
@@ -14,4 +14,4 @@ namespace ind1
             Application.Run(new Form1());
         }
     }
-}
+}*/
